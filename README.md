@@ -1,4 +1,4 @@
-Hello! This is Mohammadreza :D
+Hello! This is Mohammadreza.
 
 <!---
 MoDanger1/MoDanger1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
